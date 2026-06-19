@@ -76,7 +76,7 @@ Responsible for:
 
 ## Clone Repository
 
-git clone <repository-url>
+git clone [repository-url](https://github.com/Sujith-33/osmos-demo)
 cd osmos
 
 ## Install Dependencies
